@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Aksha'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -12,6 +12,7 @@ logo:
 
 home: 
   limit_services: 6
+  services: false
 
 collections:
   services:
