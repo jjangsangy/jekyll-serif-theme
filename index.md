@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Aksha: Artificial Intelligence
+# Aksha
 
 Human motion centered Multimodal AI Technologies. To model body kinetics and kinematics using commercial smartphone cameras and wearables.
