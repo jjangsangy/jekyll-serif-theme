@@ -8,4 +8,4 @@ weight: 3
 promoted: true
 ---
 
-Vishnu is a professor at Michigan State and leads the Human Analysis Lab in the Computer Science and Engineering Department.
+Vishnu is a professor at Michigan State University and leads the Human Analysis Lab in the Computer Science and Engineering Department.
