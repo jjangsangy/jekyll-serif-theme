@@ -7,6 +7,8 @@ bodyClass: page-about
 
 We are at a unique moment in human history where we are witnessing the near-simultaneous confluence of the following 5 developments:
 
+![phones](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+
 1. Templatization of the foundation models paradigm in AI
 2. Near ubiquitous penetration of smartphones (the last billion populace)
 3. The rise and rise of low-cost wearables laden with high sampling rate motion sensor triad (Accelerometer, Gyroscope, Magnetometer)
