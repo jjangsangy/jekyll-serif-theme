@@ -3,6 +3,7 @@ title: Vision
 layout: vision
 description: Vision
 permalink: "/vision/"
+intro_image: "images/illustrations/footprints.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---

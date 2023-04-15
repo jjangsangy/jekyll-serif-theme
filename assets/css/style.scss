@@ -70,3 +70,9 @@ body {
     line-height: 1.3;
   }
 }
+
+ol {
+  font-family: $font-family-base;
+  color: #5c5a5a;
+  list-style-position: inside;
+}
